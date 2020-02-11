@@ -1,13 +1,13 @@
 # Site settings
-title: BY Blog
-SEOTitle: JasMine的博客 | BY Blog
+title: 欲将心事付韶华
+SEOTitle: JasMine的博客 | JasMine Blog
 header-img: img/post-background.jpg
-email: qiubaiying@gmail.com
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+email: 1649035870@qq.com
+description: "Thinking will not overcome fear but action will."
+keyword: "JasMine, JasMine Blog, JasMine的博客, xianglingrui, 向玲锐"
+url: "https://gracexiang.github.io/"          # my host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/GraceXiang/GraceXiang.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
